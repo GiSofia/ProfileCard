@@ -34,7 +34,7 @@ This challenge allows me to improve my html and css skills, so I thank the front
 ### Links
 
 - Solution URL: [Repository GitHub](https://github.com/GiSofia/ProfileCard)
-- Live Site URL: [GitHub](https://gisofia.github.io/ProfileCardt/)
+- Live Site URL: [GitHub](https://gisofia.github.io/ProfileCard/)
 
 ## My process
 
